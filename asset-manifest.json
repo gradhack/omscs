@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/omscs/static/css/main.00823b5c.chunk.css",
+    "main.js": "/omscs/static/js/main.559843b7.chunk.js",
+    "main.js.map": "/omscs/static/js/main.559843b7.chunk.js.map",
+    "runtime-main.js": "/omscs/static/js/runtime-main.83ccd451.js",
+    "runtime-main.js.map": "/omscs/static/js/runtime-main.83ccd451.js.map",
+    "static/js/2.a7233b7b.chunk.js": "/omscs/static/js/2.a7233b7b.chunk.js",
+    "static/js/2.a7233b7b.chunk.js.map": "/omscs/static/js/2.a7233b7b.chunk.js.map",
+    "index.html": "/omscs/index.html",
+    "precache-manifest.5cbb431e08e63286125dc0f45d95af62.js": "/omscs/precache-manifest.5cbb431e08e63286125dc0f45d95af62.js",
+    "service-worker.js": "/omscs/service-worker.js",
+    "static/css/main.00823b5c.chunk.css.map": "/omscs/static/css/main.00823b5c.chunk.css.map",
+    "static/media/accounting.svg": "/omscs/static/media/accounting.297044a7.svg",
+    "static/media/business.svg": "/omscs/static/media/business.2258f8a3.svg",
+    "static/media/compsci.svg": "/omscs/static/media/compsci.ddce2c87.svg",
+    "static/media/datascience.svg": "/omscs/static/media/datascience.e58642c5.svg",
+    "static/media/ecee.svg": "/omscs/static/media/ecee.9200ef06.svg",
+    "static/media/message.svg": "/omscs/static/media/message.e7cc659f.svg",
+    "static/media/publichealth.svg": "/omscs/static/media/publichealth.892b1ec0.svg",
+    "static/media/title.svg": "/omscs/static/media/title.81db4a9e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83ccd451.js",
+    "static/js/2.a7233b7b.chunk.js",
+    "static/css/main.00823b5c.chunk.css",
+    "static/js/main.559843b7.chunk.js"
+  ]
+}
